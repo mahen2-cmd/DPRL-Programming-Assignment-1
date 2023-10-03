@@ -5,12 +5,12 @@ This is the first programming assignment of a course taught by Dr Hassan Jaleel 
 ### **Assignment Description: Policy and Value Iteration in OpenAI Gym's Frozen Lake Environment**
 
 **Objective:**
-In this assignment, you will dive into the world of reinforcement learning by implementing policy and value iteration algorithms on the OpenAI Gym's Frozen Lake environment. The primary goal is to understand and apply these fundamental concepts to find the optimal policy in two different grid-world environments, 4x4 and 8x8.
+In this assignment, students will dive into the world of reinforcement learning by implementing policy and value iteration algorithms on the OpenAI Gym's Frozen Lake environment. The primary goal is to understand and apply these fundamental concepts to find the optimal policy in two different grid-world environments, 4x4 and 8x8.
 
 **Assignment Components:**
 
 1. **Policy Iteration (4x4 and 8x8):**
-    - You will implement the policy iteration algorithm to find the optimal policy for both the standard 4x4 and larger 8x8 Frozen Lake environments.
+    - Students will implement the policy iteration algorithm to find the optimal policy for both the standard 4x4 and larger 8x8 Frozen Lake environments.
     - The optimal policy should be calculated and displayed in a tabular format.
 2. **Value Iteration (4x4 and 8x8):**
     - The assignment also requires students to implement the value iteration algorithm to derive the optimal policy.
@@ -25,8 +25,6 @@ In this assignment, you will dive into the world of reinforcement learning by im
 
 - **Optimal Policy:** Students should demonstrate a clear understanding of how policy and value iteration work to determine the optimal policy. The computed optimal policies should reflect this understanding.
 - **Tabular Representation:** Tables displaying the optimal policies, state-value functions, and action-value functions should be neatly organized and comprehensible.
-
-Some Starter code has been provided to you so that you don’t have to reinvent the wheel. 
 
 **Learning Outcomes:**
 This assignment aims to achieve the following learning outcomes:
