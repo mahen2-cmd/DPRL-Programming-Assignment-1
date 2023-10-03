@@ -2,7 +2,7 @@
 
 This is the first programming assignment of a course taught by Dr Hassan Jaleel - Dynamic Programming and Reinforcement Learning.  
 
-### **Assignment Description: Policy and Value Iteration in OpenAI Gym's Frozen Lake Environment**
+### **Assignment Description: Policy and Value Iteration in OpenAI Gymnasium's Frozen Lake Environment**
 
 **Objective:**
 In this assignment, students will dive into the world of reinforcement learning by implementing policy and value iteration algorithms on the OpenAI Gym's Frozen Lake environment. The primary goal is to understand and apply these fundamental concepts to find the optimal policy in two different grid-world environments, 4x4 and 8x8.
