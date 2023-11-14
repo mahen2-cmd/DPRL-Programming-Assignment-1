@@ -1,4 +1,4 @@
-# DPRL-Programming-Assignment-1
+# DPRL-Programming-Assignment-2
 
 This is the first programming assignment of a course taught by Dr Hassan Jaleel - Dynamic Programming and Reinforcement Learning.
 
@@ -9,7 +9,7 @@ In this assignment, students will dive into the world of reinforcement learning 
 
 **Assignment Components:**
 
-1. **Value Iteration (4x4 and 8x8):**
+1. **Policy Iteration Iteration (4x4 and 8x8):**
     - The assignment also requires students to implement the value iteration algorithm to derive the optimal policy.
     - Students should display the optimal policy in a table for both the 4x4 and 8x8 environments.
 2. **State-Value and Action-Value Functions:**
